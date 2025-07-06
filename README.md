@@ -30,10 +30,7 @@ Aqui você encontrará repositórios com:
 
 ## 🌐 Conecte-se comigo
 
-- [LinkedIn](https://www.linkedin.com/in/tiago-valenca)
 - [about.me](https://about.me/tvalenca)
-- [Instagram](https://instagram.com/tqvalenca)
-- [GitHub](https://github.com/tqvalenca)
 
 ---
 
