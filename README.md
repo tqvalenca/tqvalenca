@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Olá, eu sou Tiago Valença
 
-<!--
-**tqvalenca/tqvalenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheiro de Software com mais de 25 anos de experiência em tecnologia, com foco em modernização de sistemas legados, automação de processos e soluções baseadas em dados.
 
-Here are some ideas to get you started:
+🔧 Trabalho com linguagens como **COBOL**, **Java**, **Python**, além de ferramentas como **DB2**, **JCL**, e práticas de **DevOps** e **monitoramento**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tenho interesse crescente por **Inteligência Artificial**, **análise de dados**, e soluções que unem **eficiência técnica com clareza humana**.
+
+---
+
+## 🧠 O que você encontrará por aqui:
+
+- 🔄 Scripts e utilitários para conversão e análise de código legado (COBOL → Java, JCL parsers etc)
+- 📘 Exemplos didáticos de automações, consultas, pipelines e testes
+- 🧩 Projetos pessoais em Python, Arduino e visualizações com dados públicos
+- 🧭 Recursos e materiais voltados para aprendizado contínuo e comunidade técnica
+
+---
+
+> **Nota:** Os códigos aqui disponibilizados não têm qualquer vínculo com instituições em que atuei. São de natureza didática, pessoal ou experimental.
+
+📫 Você pode saber mais sobre mim em [about.me/tvalenca](https://about.me/tvalenca)
