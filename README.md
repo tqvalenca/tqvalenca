@@ -1,16 +1,43 @@
-### Hi there 👋
+# 👋 Olá! Eu sou Tiago Valença
 
-<!--
-**tqvalenca/tqvalenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+Sou um entusiasta da tecnologia com mais de duas décadas de experiência em desenvolvimento de software, com foco em sistemas corporativos, integração de tecnologias legadas, modernização de aplicações e práticas DevOps. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+- 🎓 Pós-graduado em Desenvolvimento de Software com Práticas DevOps  
+- 📘 Cursando MBA em Inteligência Artificial e Analytics  
+- 🖥️ 25 anos de atuação no setor bancário, sendo 23 deles na área de tecnologia  
+- 💡 Interesse por ciência de dados, automação, retrocomputação e educação tecnológica  
+- 🧩 Pessoa neurodivergente (TEA / Altas Habilidades), apaixonado por compreender sistemas complexos
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Linguagens: COBOL, Java, Python, SQL, JCL  
+- Banco de Dados: DB2, Oracle, PostgreSQL  
+- Ferramentas: Quarkus, Prometheus, Grafana, Git, Control-M  
+- Metodologias: DevOps, Integração Contínua, Monitoramento, Refatoração de Sistemas Legados
+
+## 🌱 Projetos e Atividades
+
+Aqui você encontrará repositórios com:
+
+- 🧪 Experimentos e provas de conceito
+- 📚 Materiais didáticos e anotações técnicas
+- 🛠️ Scripts e ferramentas auxiliares
+- 🧠 Reflexões sobre práticas de desenvolvimento e aprendizagem contínua
+
+## 🌐 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/tiago-valenca)
+- [about.me](https://about.me/tvalenca)
+- [Instagram](https://instagram.com/tqvalenca)
+- [GitHub](https://github.com/tqvalenca)
+
+---
+
+### Notas
+
+- Os códigos aqui disponibilizados não têm qualquer vínculo com instituições nas quais atuei. São de natureza didática, pessoal ou experimental.  
+- Em ambientes técnicos ou internacionais, você também pode me encontrar como “Tiago Valenca”, forma usada quando o cedilha (ç) não é suportado.
