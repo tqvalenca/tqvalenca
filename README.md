@@ -1,22 +1,43 @@
-# 👋 Olá, eu sou Tiago Valença
+# 👋 Olá! Eu sou Tiago Valença
 
-🎓 Engenheiro de Software com mais de 25 anos de experiência em tecnologia, com foco em modernização de sistemas legados, automação de processos e soluções baseadas em dados.
+Bem-vindo ao meu GitHub!
 
-🔧 Trabalho com linguagens como **COBOL**, **Java**, **Python**, além de ferramentas como **DB2**, **JCL**, e práticas de **DevOps** e **monitoramento**.
+Sou um entusiasta da tecnologia com mais de duas décadas de experiência em desenvolvimento de software, com foco em sistemas corporativos, integração de tecnologias legadas, modernização de aplicações e práticas DevOps. 
 
-💡 Tenho interesse crescente por **Inteligência Artificial**, **análise de dados**, e soluções que unem **eficiência técnica com clareza humana**.
+## 💼 Sobre mim
+
+- 🎓 Pós-graduado em Desenvolvimento de Software com Práticas DevOps  
+- 📘 Cursando MBA em Inteligência Artificial e Analytics  
+- 🖥️ 25 anos de atuação no setor bancário, sendo 23 deles na área de tecnologia  
+- 💡 Interesse por ciência de dados, automação, retrocomputação e educação tecnológica  
+- 🧩 Pessoa neurodivergente (TEA / Altas Habilidades), apaixonado por compreender sistemas complexos
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Linguagens: COBOL, Java, Python, SQL, JCL  
+- Banco de Dados: DB2, Oracle, PostgreSQL  
+- Ferramentas: Quarkus, Prometheus, Grafana, Git, Control-M  
+- Metodologias: DevOps, Integração Contínua, Monitoramento, Refatoração de Sistemas Legados
+
+## 🌱 Projetos e Atividades
+
+Aqui você encontrará repositórios com:
+
+- 🧪 Experimentos e provas de conceito
+- 📚 Materiais didáticos e anotações técnicas
+- 🛠️ Scripts e ferramentas auxiliares
+- 🧠 Reflexões sobre práticas de desenvolvimento e aprendizagem contínua
+
+## 🌐 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/tiago-valenca)
+- [about.me](https://about.me/tvalenca)
+- [Instagram](https://instagram.com/tqvalenca)
+- [GitHub](https://github.com/tqvalenca)
 
 ---
 
-## 🧠 O que você encontrará por aqui:
+### Notas
 
-- 🔄 Scripts e utilitários para conversão e análise de código legado (COBOL → Java, JCL parsers etc)
-- 📘 Exemplos didáticos de automações, consultas, pipelines e testes
-- 🧩 Projetos pessoais em Python, Arduino e visualizações com dados públicos
-- 🧭 Recursos e materiais voltados para aprendizado contínuo e comunidade técnica
-
----
-
-> **Nota:** Os códigos aqui disponibilizados não têm qualquer vínculo com instituições em que atuei. São de natureza didática, pessoal ou experimental.
-
-📫 Você pode saber mais sobre mim em [about.me/tvalenca](https://about.me/tvalenca)
+- Os códigos aqui disponibilizados não têm qualquer vínculo com instituições nas quais atuei. São de natureza didática, pessoal ou experimental.  
+- Em ambientes técnicos ou internacionais, você também pode me encontrar como “Tiago Valenca”, forma usada quando o cedilha (ç) não é suportado.
