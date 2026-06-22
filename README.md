@@ -1,34 +1,61 @@
-# 👋 Olá! Eu sou Tiago Valença
+# Olá! Eu sou Tiago Valença
 
-Bem-vindo ao meu GitHub!
+Bem-vindo ao meu GitHub.
 
-Sou um entusiasta da tecnologia com mais de duas décadas de experiência em desenvolvimento de software, com foco em sistemas corporativos, integração de tecnologias legadas, modernização de aplicações e práticas DevOps. 
+Sou Analista de TI no Banco do Brasil, com 25 anos de experiência profissional e atuação em desenvolvimento de software desde 2002. Minha trajetória combina sistemas legados de missão crítica, integração de dados, modernização de aplicações e, mais recentemente, Inteligência Artificial e automação.
 
-## 💼 Sobre mim
+Este espaço reúne projetos pessoais, estudos, experimentos e ferramentas desenvolvidos fora do ambiente corporativo.
 
-- 🎓 Pós-graduado em Desenvolvimento de Software com Práticas DevOps  
-- 📘 Cursando MBA em Inteligência Artificial e Analytics  
-- 🖥️ 25 anos de atuação no setor bancário, sendo 23 deles na área de tecnologia  
-- 💡 Interesse por ciência de dados, automação, retrocomputação e educação tecnológica  
-- 🧩 Pessoa neurodivergente (TEA / Altas Habilidades), apaixonado por compreender sistemas complexos
+## Sobre mim
 
-## 🛠️ Tecnologias e Ferramentas
+- MBA em Inteligência Artificial e Analytics
+- Pós-graduação em Desenvolvimento de Software com Práticas DevOps
+- 25 anos de atuação no Banco do Brasil, sendo 23 deles na área de Tecnologia da Informação
+- Experiência em desenvolvimento COBOL, DB2, Java, integração de dados, observabilidade e automação
+- Interesse por Inteligência Artificial, automação, retrocomputação e engenharia de software
+- Pessoa neurodivergente (TEA nível 1, TDAH e Altas Habilidades), com forte interesse por sistemas complexos, aprendizado autodirigido e resolução de problemas
 
-- Linguagens: COBOL, Java, Python, SQL, JCL  
-- Banco de Dados: DB2, Oracle, PostgreSQL  
-- Ferramentas: Quarkus, Prometheus, Grafana, Git, Control-M  
-- Metodologias: DevOps, Integração Contínua, Monitoramento, Refatoração de Sistemas Legados
+## Competências Técnicas
 
-## 🌱 Projetos e Atividades
+### Linguagens
 
-Aqui você encontrará repositórios com:
+- COBOL
+- Java
+- Python
+- SQL
+- JCL
 
-- 🧪 Experimentos e provas de conceito
-- 📚 Materiais didáticos e anotações técnicas
-- 🛠️ Scripts e ferramentas auxiliares
-- 🧠 Reflexões sobre práticas de desenvolvimento e aprendizagem contínua
+### Bancos de Dados
 
-## 🌐 Conecte-se comigo
+- DB2
+- Oracle
+- PostgreSQL
+
+### Plataformas e Ferramentas
+
+- Quarkus
+- Prometheus
+- Grafana
+- Git
+- Control-M
+
+### Práticas
+
+- DevOps
+- Integração Contínua
+- Observabilidade
+- Modernização de Sistemas Legados
+
+## Temas que Você Encontrará Neste GitHub
+
+- Inteligência Artificial e Automação
+- Integração de Sistemas
+- Produtividade Pessoal
+- Ferramentas Experimentais
+- Retrocomputação
+- Estudos e laboratórios técnicos
+
+## Conecte-se comigo
 
 - [about.me](https://about.me/tvalenca)
 
@@ -36,5 +63,5 @@ Aqui você encontrará repositórios com:
 
 ### Notas
 
-- Os códigos aqui disponibilizados não têm qualquer vínculo com instituições nas quais atuei. São de natureza didática, pessoal ou experimental.  
+- Todos os projetos publicados neste perfil são iniciativas pessoais, acadêmicas ou experimentais e não possuem vínculo com empregadores atuais ou anteriores.  
 - Em ambientes técnicos ou internacionais, você também pode me encontrar como “Tiago Valenca”, forma usada quando o cedilha (ç) não é suportado.
